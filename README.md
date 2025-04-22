@@ -8,7 +8,6 @@ This repository contains implementations of common **Design Patterns** categoriz
 
 These patterns were explored as part of my college course on Design Patterns. Each pattern includes:
 
-✅ A brief explanation  
 ✅ Code implementation in Java  
 ✅ Real-world use cases and examples
 
@@ -51,5 +50,5 @@ These patterns were explored as part of my college course on Design Patterns. Ea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/design-patterns.git
-   cd design-patterns
+   git clone https://github.com/anumandlapavan/Java-Design-Patterns.git
+   cd Java-Design-Patterns
