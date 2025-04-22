@@ -1,74 +1,55 @@
- Design Patterns in Java
-This repository contains implementations of common Design Patterns categorized into:
+# 💡 Design Patterns in Java
 
-Creational Patterns
+This repository contains implementations of common **Design Patterns** categorized into:
 
-Structural Patterns
-
-Behavioral Patterns
+- **Creational Patterns**
+- **Structural Patterns**
+- **Behavioral Patterns**
 
 These patterns were explored as part of my college course on Design Patterns. Each pattern includes:
 
-✅ A brief explanation
-✅ Code implementation in Java
+✅ A brief explanation  
+✅ Code implementation in Java  
 ✅ Real-world use cases and examples
 
-📁 Pattern Categories & Examples
-🔨 Creational Patterns
-Singleton
+---
 
-Factory Method
+## 📁 Pattern Categories & Examples
 
-Abstract Factory
+### 🔨 Creational Patterns
+- Singleton
+- Factory Method
+- Abstract Factory
+- Builder
+- Prototype
 
-Builder
+### 🏗️ Structural Patterns
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Proxy
+- Flyweight
 
-Prototype
+### 🧠 Behavioral Patterns
+- Strategy
+- Observer
+- Command
+- Chain of Responsibility
+- Template Method
+- State
+- Mediator
+- Iterator
+- Memento
+- Visitor
+- Interpreter
 
-🏗️ Structural Patterns
-Adapter
+---
 
-Bridge
+## 🚀 How to Run
 
-Composite
-
-Decorator
-
-Facade
-
-Proxy
-
-Flyweight
-
-🧠 Behavioral Patterns
-Strategy
-
-Observer
-
-Command
-
-Chain of Responsibility
-
-Template Method
-
-State
-
-Mediator
-
-Iterator
-
-Memento
-
-Visitor
-
-Interpreter
-
-🚀 How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/design-patterns.git
-cd design-patterns
-Navigate to the pattern you want to explore and run the Java file using your favorite IDE or the terminal.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/design-patterns.git
+   cd design-patterns
